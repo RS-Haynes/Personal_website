@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ryan Haynes</title>
-    <link>https://haynesryan.github.io/RH_site/tags/</link>
+    <link>https://www.ryanhaynes.net/tags/</link>
     <description>Recent content in Tags on Ryan Haynes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://haynesryan.github.io/RH_site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.ryanhaynes.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

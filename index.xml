@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryan Haynes</title>
-    <link>https://haynesryan.github.io/RH_site/</link>
+    <link>https://www.ryanhaynes.net/</link>
     <description>Recent content on Ryan Haynes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://haynesryan.github.io/RH_site/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.ryanhaynes.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://haynesryan.github.io/RH_site/about/</link>
+      <link>https://www.ryanhaynes.net/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://haynesryan.github.io/RH_site/about/</guid>
+      <guid>https://www.ryanhaynes.net/about/</guid>
       <description>Web page in Progress &amp;hellip;&amp;hellip;</description>
     </item>
     
